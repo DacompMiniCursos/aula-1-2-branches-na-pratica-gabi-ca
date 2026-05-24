@@ -1,7 +1,4 @@
 oioi, sou a gabi
-<<<<<<< HEAD
-home será sobre o geral
-=======
+home serĂ¡ sobre o geral
+about me serĂ¡ sobre mim
 
-about me será sobre mim
->>>>>>> feature/about-me
